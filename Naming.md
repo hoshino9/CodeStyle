@@ -1,3 +1,7 @@
+# Naming Scope
+
+## Construing a Varaible Name
+
 forall Variable Name x, in varaible scope (or everywhere that involves varaible), x should satisfies:
 
 ```
